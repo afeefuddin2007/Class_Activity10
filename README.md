@@ -79,9 +79,9 @@ The three automated widget tests check:
 
 These results were personally checked by installing and opening the release APK on a physical Android phone on October 26, 2026. Screenshots were captured during testing.
 
-- [x] Empty form displays all required-field errors — **not yet manually documented**.
-- [x] Invalid email is rejected — **not yet manually documented**.
-- [x] Password under six characters is rejected — **not yet manually documented**.
+- [x] Empty form displays all required-field errors —  **observed on Android**.
+- [x] Invalid email is rejected —  **observed on Android**.
+- [x] Password under six characters is rejected —  **observed on Android**.
 - [x] Valid demo fields display a green success message — **observed on Android**.
 - [x] Normal tip request displays the clearly labeled deterministic mock tip — **observed on Android**.
 - [x] Simulated offline mode displays an error and a **Retry** action — **observed on Android**.
